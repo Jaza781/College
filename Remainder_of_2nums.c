@@ -1,5 +1,5 @@
 //For modulus operator, only int value can be used
-#include <stdio.h>;
+#include <stdio.h>
 int main(){
   int a,b;
   printf("\nInput the first number\n");
