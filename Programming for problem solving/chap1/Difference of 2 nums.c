@@ -4,8 +4,8 @@ int main(){
     printf("\nInput the first number\n");
     scanf("%f,&a);
     printf("\nInput the second number\n");
-    scanf(%f",&b);
+    scanf("%f",&b);
     printf("\nThe difference %f and %f is %f,a,b,a-b);
 
-    return 0;
+   return 0;
 }
